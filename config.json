@@ -1,0 +1,8 @@
+{
+    "log_file_path": "path/to/log/file",
+    "malware_signatures": ["malicious_signature1", "malicious_signature2"],
+    "recovery_commands": [
+        "command1",
+        "command2"
+    ]
+}

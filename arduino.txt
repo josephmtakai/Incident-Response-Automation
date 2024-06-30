@@ -1,0 +1,7 @@
+incident-response-automation/
+├── log_analysis.py
+├── malware_detection.py
+├── system_recovery.py
+├── config.json
+├── README.md
+└── requirements.txt
