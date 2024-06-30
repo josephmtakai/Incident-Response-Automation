@@ -2,7 +2,8 @@
     "log_file_path": "C:/Users/5H3PH3RD/Desktop/MY STARTUP PROJECTS/Incident Response Automation/example.log",
     "malware_signatures": ["malicious_signature1", "malicious_signature2"],
     "recovery_commands": [
-        "command1",
-        "command2"
+        "echo Recovering system...",
+        "echo Command 1 executed",
+        "echo Command 2 executed"
     ]
 }
